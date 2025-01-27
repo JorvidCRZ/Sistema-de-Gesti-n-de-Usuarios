@@ -33,6 +33,19 @@ El backend está desarrollado en **Spring Boot** y organiza su código en los si
 
 - **JWT**: Se generan tokens al iniciar sesión y se usan para proteger las rutas privadas de la API.
 - **Hashing de contraseñas**: Se utiliza **Argon2** para almacenar las contraseñas de forma segura.
+  
+#### Base de Datos
+
+- La aplicación utiliza **MySQL** como sistema de base de datos.
+- Se gestiona una tabla `usuario` que almacena la información de los usuarios.
+- Los campos principales en la base de datos incluyen:
+  - `id` (clave primaria)
+  - `nombre`
+  - `apellido`
+  - `email`
+  - `telefono`
+  - `password` (encriptada con Argon2)
+
 
 ### Frontend
 
