@@ -63,13 +63,6 @@ El frontend está desarrollado utilizando **HTML**, **CSS** y **JavaScript**, y 
 3. **Eliminar Usuarios**:
    - Ofrece un botón para eliminar usuarios mediante el endpoint `DELETE /api/usuarios/{id}`.
 
-### Recursos
-
-En la carpeta `resources` se incluyen los siguientes elementos:
-
-- **`static/js`**: Archivos JavaScript para las funciones del frontend.
-- **`static/css` y `static/scss`**: Estilos utilizados para la interfaz.
-- **`static/vendor`**: Dependencias de terceros, como plantillas HTML.
 
 ## Modelo de Usuario
 
