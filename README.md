@@ -77,7 +77,7 @@ El modelo `Usuario` representa la entidad que se almacena en la base de datos. E
 
 
 ## Login
-![Login]https://github.com/JorvidCRZ/Sistema-de-Gesti-n-de-Usuarios/blob/main/readme/login.png
+![Login]Sistema-de-Gesti-n-de-Usuarios/readme/login.png
 
 
 
