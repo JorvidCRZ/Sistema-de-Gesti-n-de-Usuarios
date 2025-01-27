@@ -75,16 +75,10 @@ El modelo `Usuario` representa la entidad que se almacena en la base de datos. E
 - `telefono`
 - `password` (almacenada de forma encriptada)
 
-```java
-@Entity
-@Table(name = "usuario")
-public class Usuario {
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
-    private String nombre;
-    private String apellido;
-    private String email;
-    private String telefono;
-    private String password;
-}
+
+## Login
+![Login]https://github.com/JorvidCRZ/Sistema-de-Gesti-n-de-Usuarios/blob/main/readme/login.png
+
+
+
+
