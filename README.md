@@ -75,9 +75,15 @@ El modelo `Usuario` representa la entidad que se almacena en la base de datos. E
 - `telefono`
 - `password` (almacenada de forma encriptada)
 
+## Registrar
+![Registrar](https://github.com/JorvidCRZ/Sistema-de-Gesti-n-de-Usuarios/blob/main/readme/registrar.png)
 
 ## Login
 ![Login](https://github.com/JorvidCRZ/Sistema-de-Gesti-n-de-Usuarios/blob/main/readme/login.png)
+
+## Tabla de usuarios 
+![Usuarios](https://github.com/JorvidCRZ/Sistema-de-Gesti-n-de-Usuarios/blob/main/readme/usuarios.png)
+
 
 
 
